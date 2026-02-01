@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crafting1i&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amesu-devi&show_icons=true&count_private=true" />
 </div>
 
 ### About
