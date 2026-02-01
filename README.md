@@ -1,7 +1,4 @@
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amesu-devi&show_icons=true&count_private=true" />
-</div>
 
 ### About
 - I'm **Ame** aka Crating1i, aka Mona, aka *"Who are you?"* (Yeah, all names are not real, but maybe in future...)
